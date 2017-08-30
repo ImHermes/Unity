@@ -1,4 +1,3 @@
 $(document).ready(function(){
-    alert("Yes!");
+    alert("No!");
 });
-console.log("Yes!");
