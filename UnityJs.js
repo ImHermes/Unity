@@ -1,4 +1,4 @@
 /* Unity by Dsepd V0.1 |   Moses I. Igbinigie */
-alert("Yes!");
-
-
+$(document).ready(function(){
+    alert("Yes!");
+});
