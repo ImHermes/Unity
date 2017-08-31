@@ -1,3 +1,3 @@
 $(document).ready(function(){
-    alert("No!");
+    alert("v1!");
 });
